@@ -2,10 +2,13 @@
 
 In this tutorial, a consul, a primary manager, secondary manager, and two nodes will be created in a docker swarm.
 
-The consul and the primary manager will be created in the instance with IP 45.79.106.150
-The secondary manager will be created in the instance with IP 45.56.85.129
-One node will be created in the instance with IP 198.74.48.34, and the other node will be created in the instance with IP 45.33.61.89
+**The consul and the primary manager will be created in the instance with IP 45.79.106.150
 
+**The secondary manager will be created in the instance with IP 45.56.85.129
+
+**One node will be created in the instance with IP 198.74.48.34, and the other node will be created in the instance with IP 45.33.61.89
+
+------
 
 1. set discovery back-end (45.79.106.150):
 
