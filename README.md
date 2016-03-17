@@ -8,6 +8,8 @@ In this tutorial, a consul, a primary manager, secondary manager, and two nodes 
 
 **One node will be created in the instance with IP 198.74.48.34, and the other node will be created in the instance with IP 45.33.61.89**
 
+NOTE: suggest not to install docker-machine on instances which run as nodes
+
 ------
 
 -> 1. set discovery back-end (45.79.106.150):
